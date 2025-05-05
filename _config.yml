@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: IDC402 Term Project
 subtitle: Non Linear Dynamics
 description: Orbital dynamics of Bar Galaxies and the Role of Chaos (Code and Result Files)
+show_downloads: true
+github:
+  owner-url: https://aaevelion.github.io/
